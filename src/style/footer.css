@@ -1,0 +1,12 @@
+/* style/footer.css */
+
+.footer {
+    width: 100%; /* Full width of the page */
+    height: 70px;
+    background-color: darkslategrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Text color for visibility */
+    font-size: 16px; /* Adjust font size if needed */
+}
